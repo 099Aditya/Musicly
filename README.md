@@ -37,7 +37,7 @@ Music/
 
 ## 🌐 Live Demo
 
-(You can deploy on **GitHub Pages**: `https://099Aditya.github.io/Musicly/`)
+(You can deploy on **GitHub Pages**: `https://musicllyy.netlify.app/`)
 
 ## 👨‍💻 Author
 
